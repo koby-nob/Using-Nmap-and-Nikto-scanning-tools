@@ -21,7 +21,7 @@
 
     - Type: nmap -A 10.1.6.200
 
- - Screenshot 2- Nikot scan with timestamp
+ - Screenshot 2- Nikto scan with timestamp
 
 <img width="975" height="660" alt="Screenshot 3b_Nikto scan with timestamp" src="https://github.com/user-attachments/assets/eeb64a11-d925-44d9-a842-68394bd82368" />
 
