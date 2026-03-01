@@ -25,5 +25,10 @@
 <img width="975" height="660" alt="Screenshot 3b_Nikto scan with timestamp" src="https://github.com/user-attachments/assets/eeb64a11-d925-44d9-a842-68394bd82368" />
 
     - Type: nikto -h http://10.1.16.200
+    
+<img width="965" height="560" alt="Screenshot 3c- Exploitation of Nmap only" src="https://github.com/user-attachments/assets/f4391e41-fb88-494f-9ffc-4e9a323992ed" />
+
+    - Type: nmap
+
 
 
