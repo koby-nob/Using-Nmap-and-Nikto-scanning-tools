@@ -6,6 +6,7 @@
     
          - Windows PC
          - Vmare Workstation
+         - UMGC Course Projects
          
 <h2>Operating System Used </h2>
 
